@@ -16,3 +16,15 @@ Considerations:
 ## Step by step development.
 
 If you want to learn how to develope an app like this from scratch please visit this [link](https://medium.com/@lucasfunes_62694/asp-net-app-with-docker-cd6876e562bb).
+
+# User Feedback
+
+## Issues
+
+If you have any problems with or questions about this app, please contact to this email lucasmfunes@gmail.com.
+
+## Documentation
+
+You can read [documentation for ASP.NET](https://docs.microsoft.com/aspnet/overview), including Docker usage in the [Docker docs](https://docs.docker.com/). 
+
+Contributions are welcome !! 

@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace StudentsApp
+namespace StudentsCRUDApp
 {
     public class Program
     {
@@ -22,3 +22,4 @@ namespace StudentsApp
                 .UseStartup<Startup>();
     }
 }
+

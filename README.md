@@ -15,4 +15,4 @@ Considerations:
 
 ## Step by step development.
 
-If you want to learn how to develope an app like this from scratch please visit this [link].(https://medium.com/@lucasfunes_62694/asp-net-app-with-docker-cd6876e562bb)
+If you want to learn how to develope an app like this from scratch please visit this [link](https://medium.com/@lucasfunes_62694/asp-net-app-with-docker-cd6876e562bb).

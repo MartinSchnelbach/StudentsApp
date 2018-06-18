@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  studentsapp:
+    image: ${DOCKER_REGISTRY}studentsapp
+    build:
+      context: .
+      dockerfile: StudentsApp\Dockerfile
